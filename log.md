@@ -6,6 +6,12 @@
 
 **Link to work:** [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 
+### Day 1: August 16, 2022
+
+**Today's Progress**: Finished Lesson 5 to 7 of *freecodecamp.org* **Responsive Web Design** Learn HTML by Building a Cat Photo App.
+
+**Link to work:** [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
