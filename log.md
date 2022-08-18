@@ -12,6 +12,11 @@
 
 **Today's Progress**: Solved a two pointer problem called **Pair with Target Sum (easy)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
 
+### Day 3: August 18, 2022
+
+**Today's Progress**: Solved a two pointer problem called **Remove Duplicates (easy)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
+
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
