@@ -20,6 +20,9 @@
 
 **Today's Progress**: Solved a two pointer problem called **Squaring a Sorted Array (easy)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
 
+## Day 5: August 20, 2022
+
+**Today's Progress**: Solved a two pointer problem called **Triplet Sum to Zero (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
