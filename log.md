@@ -32,9 +32,13 @@
 
 **Today's Progress**: Solved a two pointer problem called **Triplet Sum Samller than Target (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
 
-## Day 8: August 22, 2022
+## Day 8: August 23, 2022
 
 **Today's Progress**: Solved a two pointer problem called **Subarrays with Product Less than a Target (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
+
+## Day 9: August 24, 2022
+
+**Today's Progress**: Solved a two pointer problem called **Dutch national flag (medium)** also known as **Sort array of 0’s, 1’s and 2’s** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
