@@ -40,6 +40,10 @@
 
 **Today's Progress**: Solved a two pointer problem called **Dutch national flag (medium)** also known as **Sort array of 0’s, 1’s and 2’s** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
 
+## Day 10: August 25, 2022
+
+**Today's Progress**: Practiced **Dutch national flag (medium)** and **Pair with Target Sum (easy)**
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
