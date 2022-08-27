@@ -47,3 +47,7 @@
 ## Day 11: August 26, 2022
 
 **Today's Progress**: Solved a two pointer problem called **Quadruple Sum to Target (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
+
+## Day 12: August 27, 2022
+
+**Today's Progress**: Solved a two pointer problem called **Comparing Strings containing Backspaces (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
