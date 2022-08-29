@@ -55,3 +55,7 @@
 ## Day 13: August 28, 2022
 
 **Today's Progress**: Practiced **Remove Duplicates (easy)** and **Triplet Sum to Zero (medium)**
+
+## Day 14: August 29, 2022
+
+**Today's Progress**: Solved a two pointer problem called **Minimum Window Sort (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
