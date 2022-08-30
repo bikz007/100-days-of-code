@@ -59,3 +59,7 @@
 ## Day 14: August 29, 2022
 
 **Today's Progress**: Solved a two pointer problem called **Minimum Window Sort (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
+
+## Day 15: August 30, 2022
+
+**Today's Progress**: Practiced **Triplet Sum Smaller than Target** and **Subarrays with Product Less than a Target (medium)**
