@@ -63,3 +63,7 @@
 ## Day 15: August 30, 2022
 
 **Today's Progress**: Practiced **Triplet Sum Smaller than Target** and **Subarrays with Product Less than a Target (medium)**
+
+## Day 17: August 31, 2022
+
+**Today's Progress**: Practiced **Triplet Sum Close to Target (medium)** and **Quadruple Sum to Target (medium)**
