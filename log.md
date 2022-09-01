@@ -67,3 +67,7 @@
 ## Day 17: August 31, 2022
 
 **Today's Progress**: Practiced **Triplet Sum Close to Target (medium)** and **Quadruple Sum to Target (medium)**
+
+## Day 18: September 1, 2022
+
+**Today's Progress**: Finished Lesson 8 to 10 of *freecodecamp.org* **Responsive Web Design** Learn HTML by Building a Cat Photo App.
