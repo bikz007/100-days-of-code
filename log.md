@@ -71,3 +71,7 @@
 ## Day 18: September 1, 2022
 
 **Today's Progress**: Finished Lesson 8 to 10 of *freecodecamp.org* **Responsive Web Design** Learn HTML by Building a Cat Photo App.
+
+## Day 19: September 5, 2022
+
+**Today's Progress**: Practiced **Squaring a Sorted Array (easy)**
