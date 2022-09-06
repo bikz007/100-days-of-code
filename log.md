@@ -75,3 +75,7 @@
 ## Day 19: September 5, 2022
 
 **Today's Progress**: Practiced **Squaring a Sorted Array (easy)**
+
+## Day 20: September 6, 2022
+
+**Today's Progress**: Compiled and Build example code of opengl-redbook
