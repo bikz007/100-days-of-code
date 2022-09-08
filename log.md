@@ -79,3 +79,7 @@
 ## Day 20: September 6, 2022
 
 **Today's Progress**: Compiled and Build example code of opengl-redbook
+
+## Day 21: September 7, 2022
+
+**Today's Progress**: Solved a fast-slow pointer problem called **Linked list cycle (easy)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
