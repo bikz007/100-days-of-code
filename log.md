@@ -83,3 +83,7 @@
 ## Day 21: September 7, 2022
 
 **Today's Progress**: Solved a fast-slow pointer problem called **Linked list cycle (easy)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
+
+## Day 22: September 8, 2022
+
+**Today's Progress**: Coded a weather tracking app using golang, using youtube video as reference
