@@ -87,3 +87,7 @@
 ## Day 22: September 8, 2022
 
 **Today's Progress**: Coded a weather tracking app using golang, using youtube video as reference
+
+## Day 23: September 9, 2022
+
+**Today's Progress**: Solved a fast-slow pointer problem called **Start of LinkedList Cycle (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
