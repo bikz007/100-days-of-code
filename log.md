@@ -91,3 +91,7 @@
 ## Day 23: September 9, 2022
 
 **Today's Progress**: Solved a fast-slow pointer problem called **Start of LinkedList Cycle (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
+
+## Day 24: September 10, 2022
+
+**Today's Progress**: Solved a fast-slow pointer problem called **Happy Number (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
