@@ -95,3 +95,7 @@
 ## Day 24: September 10, 2022
 
 **Today's Progress**: Solved a fast-slow pointer problem called **Happy Number (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
+
+## Day 25: September 11, 2022
+
+**Today's Progress**: Practiced **Minimum Window Sort (medium)**
