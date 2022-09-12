@@ -99,3 +99,7 @@
 ## Day 25: September 11, 2022
 
 **Today's Progress**: Practiced **Minimum Window Sort (medium)**
+
+## Day 26: September 12, 2022
+
+**Today's Progress**: Solved a fast-slow pointer problem called **Middle of Linked list (easy)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
