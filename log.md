@@ -107,3 +107,7 @@
 ## Day 27: September 13, 2022
 
 **Today's Progress**: Learned about variables in rust and variables shadowing/masking.
+
+## Day 28: September 14, 2022
+
+**Today's Progress**: Practiced **Minimum Window Sort (medium)** and  **Sort array of 0’s, 1’s and 2’s**.
