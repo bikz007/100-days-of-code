@@ -115,3 +115,7 @@
 ## Day 29: September 15, 2022
 
 **Today's Progress**: Learned about data types in rust.
+
+## Day 30: September 16, 2022
+
+**Today's Progress**: Coded backend of library rest api.
