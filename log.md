@@ -119,3 +119,7 @@
 ## Day 30: September 16, 2022
 
 **Today's Progress**: Coded backend of library rest api.
+
+## Day 31: September 17, 2022
+
+**Today's Progress**: Coded update book handler of library rest api.
