@@ -123,3 +123,7 @@
 ## Day 31: September 17, 2022
 
 **Today's Progress**: Coded update book handler of library rest api.
+
+## Day 32: September 18, 2022
+
+**Today's Progress**: Learned about arithmetic and logical operators of rust.
