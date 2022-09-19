@@ -127,3 +127,7 @@
 ## Day 32: September 18, 2022
 
 **Today's Progress**: Learned about arithmetic and logical operators of rust.
+
+## Day 33: September 19, 2022
+
+**Today's Progress**: Solved a fast-slow pointer problem called **Palindrome LinkedList (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
