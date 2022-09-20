@@ -131,3 +131,7 @@
 ## Day 33: September 19, 2022
 
 **Today's Progress**: Solved a fast-slow pointer problem called **Palindrome LinkedList (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
+
+## Day 34: September 20, 2022
+
+**Today's Progress**: Finished route params middleware assignment for Newton School nodejs batch.
