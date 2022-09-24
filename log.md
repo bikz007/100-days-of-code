@@ -139,3 +139,8 @@
 ## Day 35: September 21, 2022
 
 **Today's Progress**: Finished Lesson 11 of *freecodecamp.org* **Responsive Web Design** Learn HTML by Building a Cat Photo App.
+
+## Day 36: September 24, 2022
+
+**Today's Progress**: Learned about comparison, bitwise, assignment, compound assignment, type casting, borrowing and dereferencing operators of rust.
+Also learned about precedence and associativity of operators.
