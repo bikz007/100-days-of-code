@@ -144,3 +144,7 @@
 
 **Today's Progress**: Learned about comparison, bitwise, assignment, compound assignment, type casting, borrowing and dereferencing operators of rust.
 Also learned about precedence and associativity of operators.
+
+## Day 37: September 26, 2022
+
+**Today's Progress**: Learned conditional expressions of rust.
