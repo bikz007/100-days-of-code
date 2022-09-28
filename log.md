@@ -152,3 +152,7 @@ Also learned about precedence and associativity of operators.
 ## Day 38: September 27, 2022
 
 **Today's Progress**: Solved a fast-slow pointer problem called **Rearrange a LinkedList (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
+
+## Day 39: September 28, 2022
+
+**Today's Progress**: Solved a fast-slow pointer problem called **Cycle in a Circular Array (hard)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
