@@ -148,3 +148,7 @@ Also learned about precedence and associativity of operators.
 ## Day 37: September 26, 2022
 
 **Today's Progress**: Learned conditional expressions of rust.
+
+## Day 38: September 27, 2022
+
+**Today's Progress**: Solved a fast-slow pointer problem called **Rearrange a LinkedList (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
