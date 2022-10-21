@@ -156,3 +156,7 @@ Also learned about precedence and associativity of operators.
 ## Day 39: September 28, 2022
 
 **Today's Progress**: Solved a fast-slow pointer problem called **Cycle in a Circular Array (hard)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
+
+## Day 40: October 21, 2022
+
+**Today's Progress**: Solved a problem called **Return the nth digit of a number**
