@@ -160,3 +160,7 @@ Also learned about precedence and associativity of operators.
 ## Day 40: October 21, 2022
 
 **Today's Progress**: Solved a problem called **Return the nth digit of a number**
+
+## Day 41: October 22, 2022
+
+**Today's Progress**: Solved a problem called **Count the digits in a number**
