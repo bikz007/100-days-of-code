@@ -164,3 +164,7 @@ Also learned about precedence and associativity of operators.
 ## Day 41: October 22, 2022
 
 **Today's Progress**: Solved a problem called **Count the digits in a number**
+
+## Day 42: October 26, 2022
+
+**Today's Progress**: Solved a problem called **Find largest and smallest digits of a number**
