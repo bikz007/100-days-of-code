@@ -168,3 +168,7 @@ Also learned about precedence and associativity of operators.
 ## Day 42: October 26, 2022
 
 **Today's Progress**: Solved a problem called **Find largest and smallest digits of a number**
+
+## Day 43: October 27, 2022
+
+**Today's Progress**: Solved a problem called **Merge two sorted arrays**
