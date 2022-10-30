@@ -172,3 +172,7 @@ Also learned about precedence and associativity of operators.
 ## Day 43: October 27, 2022
 
 **Today's Progress**: Solved a problem called **Merge two sorted arrays**
+
+## Day 44: October 29, 2022
+
+**Today's Progress**: Solved a sliding-window problem called **Smallest Subarray With a Greater Sum** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
