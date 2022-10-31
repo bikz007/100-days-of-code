@@ -176,3 +176,7 @@ Also learned about precedence and associativity of operators.
 ## Day 44: October 29, 2022
 
 **Today's Progress**: Solved a sliding-window problem called **Smallest Subarray With a Greater Sum** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
+
+## Day 45: October 31, 2022
+
+**Today's Progress**: Solved a sliding-window problem called **Longest Substring with maximum K Distinct Characters (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
