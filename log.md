@@ -180,3 +180,7 @@ Also learned about precedence and associativity of operators.
 ## Day 45: October 31, 2022
 
 **Today's Progress**: Solved a sliding-window problem called **Longest Substring with maximum K Distinct Characters (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
+
+## Day 46: November 1, 2022
+
+**Today's Progress**: Solved a sliding-window problem called **Fruits into Baskets (medium)** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
