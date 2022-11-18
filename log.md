@@ -188,3 +188,7 @@ Also learned about precedence and associativity of operators.
 ## Day 47: November 17, 2022
 
 **Today's Progress**: Solved a sliding-window problem called **Find Maximum in Sliding Window** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
+
+## Day 48: November 18, 2022
+
+**Today's Progress**: Solved a sliding-window problem called **Minimum Window Subsequence** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
