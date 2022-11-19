@@ -196,3 +196,7 @@ Also learned about precedence and associativity of operators.
 ## Day 49: November 18, 2022
 
 **Today's Progress**: Solved a sliding-window problem called **Repeated DNS sequences** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
+
+## Day 50: November 19, 2022
+
+**Today's Progress**: Solved a problem called **Valid Parenthesis** from educative.io course: *Grokking the Coding Interview: Patterns for Coding Questions*
