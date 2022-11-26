@@ -204,3 +204,10 @@ Also learned about precedence and associativity of operators.
 ## Day 51: November 22, 2022
 
 **Today's Progress**: Solved a problem called **Sara's second highest divisor problem**
+
+## Day 52: November 26, 2022
+
+**Today's Progress**: Practiced problems
+
+- Valid Parenthesis
+- Dutch national flag problem
