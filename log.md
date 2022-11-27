@@ -211,3 +211,10 @@ Also learned about precedence and associativity of operators.
 
 - Valid Parenthesis
 - Dutch national flag problem
+
+## Day 53: November 27, 2022
+
+**Today's Progress**: Practiced problems
+
+- Linked list cycle
+- Shortest subarray to sort the array
