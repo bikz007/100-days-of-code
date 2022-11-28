@@ -218,3 +218,10 @@ Also learned about precedence and associativity of operators.
 
 - Linked list cycle
 - Shortest subarray to sort the array
+
+## Day 54: November 28, 2022
+
+**Today's Progress**: Practiced problems
+
+- Longest substring with distinct characters
+- Subarray with sum k
