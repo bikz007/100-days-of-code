@@ -233,3 +233,9 @@ Also learned about precedence and associativity of operators.
 - Sum of contiguous subarray with maximum sum
 - Minimum Window Sort
 - Start of LinkedList Cycle
+
+## Day 56: December 13, 2022
+
+**Today's Progress**: Practiced problems
+
+- Dutch national flag problem or Sort Colors
