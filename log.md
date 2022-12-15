@@ -239,3 +239,7 @@ Also learned about precedence and associativity of operators.
 **Today's Progress**: Practiced problems
 
 - Dutch national flag problem or Sort Colors
+
+- ## Day 57: December 14, 2022
+
+**Today's Progress**: Solved new problem from book **EOPI** named *increment an arbitary precision integer(6.2)*
