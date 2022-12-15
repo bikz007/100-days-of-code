@@ -240,6 +240,10 @@ Also learned about precedence and associativity of operators.
 
 - Dutch national flag problem or Sort Colors
 
-- ## Day 57: December 14, 2022
+## Day 57: December 14, 2022
 
 **Today's Progress**: Solved new problem from book **EOPI** named *increment an arbitary precision integer(6.2)*
+
+## Day 58: December 15, 2022
+
+**Today's Progress**: Solved new problem from book **EOPI** named *multiply two arbitary precision integer(6.3)*
