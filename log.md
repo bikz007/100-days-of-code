@@ -247,3 +247,7 @@ Also learned about precedence and associativity of operators.
 ## Day 58: December 15, 2022
 
 **Today's Progress**: Solved new problem from book **EOPI** named *multiply two arbitary precision integer(6.3)*
+
+## Day 59: December 28, 2022
+
+**Today's Progress**: Practiced problem called *Happy number*
