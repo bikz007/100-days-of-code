@@ -251,3 +251,7 @@ Also learned about precedence and associativity of operators.
 ## Day 59: December 28, 2022
 
 **Today's Progress**: Practiced problem called *Happy number*
+
+## Day 60: January 3, 2022
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Advancing through an array(6.4)* also known as *Jump Game*
