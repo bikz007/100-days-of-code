@@ -255,3 +255,7 @@ Also learned about precedence and associativity of operators.
 ## Day 60: January 3, 2022
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Advancing through an array(6.4)* also known as *Jump Game*
+
+## Day 61: January 4, 2022
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Delete duplicates froma a sorted array(6.45)*
