@@ -258,4 +258,8 @@ Also learned about precedence and associativity of operators.
 
 ## Day 61: January 4, 2022
 
-**Today's Progress**: Solved new problem from book **EOPI** named *Delete duplicates froma a sorted array(6.45)*
+**Today's Progress**: Solved new problem from book **EOPI** named *Delete duplicates froma a sorted array(6.5)*
+
+## Day 62: January 5, 2022
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Buy and sell stock once (6.6)*
