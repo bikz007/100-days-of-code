@@ -263,3 +263,7 @@ Also learned about precedence and associativity of operators.
 ## Day 62: January 5, 2022
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Buy and sell stock once (6.6)*
+
+## Day 63: January 6, 2022
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Buy and sell stock twice (6.7)*
