@@ -271,3 +271,7 @@ Also learned about precedence and associativity of operators.
 ## Day 64: January 9, 2022
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Enumerate all primes to n(6.8)*
+
+## Day 65: January 13, 2022
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Permute the elements of an array (6.9)*
