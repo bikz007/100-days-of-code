@@ -275,3 +275,7 @@ Also learned about precedence and associativity of operators.
 ## Day 65: January 13, 2022
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Permute the elements of an array (6.9)*
+
+## Day 66: January 19, 2022
+
+**Today's Progress**: Solved new problem called *Lowest Common Ancestor of a Binary Tree*
