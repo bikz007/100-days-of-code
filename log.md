@@ -279,3 +279,7 @@ Also learned about precedence and associativity of operators.
 ## Day 66: January 19, 2022
 
 **Today's Progress**: Solved new problem called *Lowest Common Ancestor of a Binary Tree*
+
+## Day 67: January 31, 2022
+
+**Today's Progress**: Solved new problem called *Rearrange Spaces Between Words*
