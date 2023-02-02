@@ -252,34 +252,38 @@ Also learned about precedence and associativity of operators.
 
 **Today's Progress**: Practiced problem called *Happy number*
 
-## Day 60: January 3, 2022
+## Day 60: January 3, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Advancing through an array(6.4)* also known as *Jump Game*
 
-## Day 61: January 4, 2022
+## Day 61: January 4, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Delete duplicates froma a sorted array(6.5)*
 
-## Day 62: January 5, 2022
+## Day 62: January 5, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Buy and sell stock once (6.6)*
 
-## Day 63: January 6, 2022
+## Day 63: January 6, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Buy and sell stock twice (6.7)*
 
-## Day 64: January 9, 2022
+## Day 64: January 9, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Enumerate all primes to n(6.8)*
 
-## Day 65: January 13, 2022
+## Day 65: January 13, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Permute the elements of an array (6.9)*
 
-## Day 66: January 19, 2022
+## Day 66: January 19, 2023
 
 **Today's Progress**: Solved new problem called *Lowest Common Ancestor of a Binary Tree*
 
-## Day 67: January 31, 2022
+## Day 67: January 31, 2023
 
 **Today's Progress**: Solved new problem called *Rearrange Spaces Between Words*
+
+## Day 68: February 2, 2023
+
+**Today's Progress**: New project called *Case converter*
