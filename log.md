@@ -291,3 +291,7 @@ Also learned about precedence and associativity of operators.
 ## Day 69: February 3, 2023
 
 **Today's Progress**: Solved problem called *Find middle node of linked list* and *Delete a node from a linked list*
+
+## Day 70: February 6, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Compute spiral order from a 2D array (6.17)*
