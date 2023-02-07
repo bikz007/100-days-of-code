@@ -295,3 +295,7 @@ Also learned about precedence and associativity of operators.
 ## Day 70: February 6, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Compute spiral order from a 2D array (6.17)*
+
+## Day 71: February 7, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Rotate a 2D array 90 deg clockwise*
