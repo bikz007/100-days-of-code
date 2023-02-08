@@ -298,4 +298,8 @@ Also learned about precedence and associativity of operators.
 
 ## Day 71: February 7, 2023
 
-**Today's Progress**: Solved new problem from book **EOPI** named *Rotate a 2D array 90 deg clockwise*
+**Today's Progress**: Solved new problem from book **EOPI** named *Rotate a 2D array 90 deg clockwise(6.18)*
+
+## Day 72: February 8, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Compute pascal's triangle(6.19)*
