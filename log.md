@@ -303,3 +303,7 @@ Also learned about precedence and associativity of operators.
 ## Day 72: February 8, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Compute pascal's triangle(6.19)*
+
+## Day 73: February 17, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Base conversion*
