@@ -307,3 +307,7 @@ Also learned about precedence and associativity of operators.
 ## Day 73: February 17, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Base conversion*
+
+## Day 74: February 20, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Excel sheet column number*
