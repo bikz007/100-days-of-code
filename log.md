@@ -311,3 +311,7 @@ Also learned about precedence and associativity of operators.
 ## Day 74: February 20, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Excel sheet column number*
+
+## Day 75: February 21, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Replace and Remove(7.4)*
