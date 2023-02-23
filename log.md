@@ -315,3 +315,7 @@ Also learned about precedence and associativity of operators.
 ## Day 75: February 21, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Replace and Remove(7.4)*
+
+## Day 76: February 23, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Reverse words in a string(7.6)*
