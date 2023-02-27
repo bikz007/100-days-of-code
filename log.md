@@ -323,3 +323,7 @@ Also learned about precedence and associativity of operators.
 ## Day 77: February 24, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Letter Combinations of a Phone Number(7.7)*
+
+## Day 78: February 27, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Look and Say Sequence(7.8s)*
