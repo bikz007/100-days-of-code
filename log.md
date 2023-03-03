@@ -326,4 +326,8 @@ Also learned about precedence and associativity of operators.
 
 ## Day 78: February 27, 2023
 
-**Today's Progress**: Solved new problem from book **EOPI** named *Look and Say Sequence(7.8s)*
+**Today's Progress**: Solved new problem from book **EOPI** named *Look and Say Sequence(7.8)*
+
+## Day 79: February 28, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Roman to Integer(7.9)*
