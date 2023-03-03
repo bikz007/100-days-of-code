@@ -335,3 +335,7 @@ Also learned about precedence and associativity of operators.
 ## Day 80: March 2, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Compute all valid IP addresses(7.10)*
+
+## Day 81: March 3, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Write a string sinusoidally(7.11)*
