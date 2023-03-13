@@ -339,3 +339,7 @@ Also learned about precedence and associativity of operators.
 ## Day 81: March 3, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Write a string sinusoidally(7.11)*
+
+## Day 82: March 13, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Implement Run-Length Encoding and Decoding(7.12)*
