@@ -347,3 +347,7 @@ Also learned about precedence and associativity of operators.
 ## Day 83: March 29, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Find first occurence of a substring(7.13)*
+
+## Day 84: March 30, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Merge Two Sorted Lists(8.1)*
