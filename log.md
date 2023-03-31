@@ -351,3 +351,7 @@ Also learned about precedence and associativity of operators.
 ## Day 84: March 30, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Merge Two Sorted Lists(8.1)*
+
+## Day 85: March 31, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Reverse sub list(8.2)*
