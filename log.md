@@ -355,3 +355,7 @@ Also learned about precedence and associativity of operators.
 ## Day 85: March 31, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Reverse sub list(8.2)*
+
+## Day 86: April 3, 2023
+
+**Today's Progress**: Practiced problems from book **EOPI** named *Test for Cyclicity and get start of cycle(8.3)*
