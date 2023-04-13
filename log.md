@@ -359,3 +359,7 @@ Also learned about precedence and associativity of operators.
 ## Day 86: April 3, 2023
 
 **Today's Progress**: Practiced problems from book **EOPI** named *Test for Cyclicity and get start of cycle(8.3)*
+
+## Day 87: April 13, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *TEST FOR OVERLAPPING LISTS--LISTS ARE CYCLE-FREE(8.4)*
