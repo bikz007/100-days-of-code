@@ -371,3 +371,7 @@ Also learned about precedence and associativity of operators.
 ## Day 89: April 17, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Remove the Kth Last element from List(8.7)*
+
+## Day 90: April 18, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Remove Duplicates from Sorted Singly Linked List(8.8)*
