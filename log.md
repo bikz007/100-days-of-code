@@ -375,3 +375,7 @@ Also learned about precedence and associativity of operators.
 ## Day 90: April 18, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Remove Duplicates from Sorted Singly Linked List(8.8)*
+
+## Day 91: April 24, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Rotate Singly Linked List(8.9)*
