@@ -379,3 +379,7 @@ Also learned about precedence and associativity of operators.
 ## Day 91: April 24, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Rotate Singly Linked List(8.9)*
+
+## Day 92: April 25, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Odd Even Singly Linked List(8.10)*
