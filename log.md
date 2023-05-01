@@ -383,3 +383,7 @@ Also learned about precedence and associativity of operators.
 ## Day 92: April 25, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Odd Even Singly Linked List(8.10)*
+
+## Day 93: May 1, 2023
+
+**Today's Progress**: Practiced problem from book **EOPI** named *Test palindrome linked list(8.11)*
