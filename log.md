@@ -387,3 +387,7 @@ Also learned about precedence and associativity of operators.
 ## Day 93: May 1, 2023
 
 **Today's Progress**: Practiced problem from book **EOPI** named *Test palindrome linked list(8.11)*
+
+## Day 94: May 3, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Implement stack with max api(9.1)*
