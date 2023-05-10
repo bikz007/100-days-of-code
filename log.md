@@ -391,3 +391,7 @@ Also learned about precedence and associativity of operators.
 ## Day 94: May 3, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Implement stack with max api(9.1)*
+
+## Day 95: May 11, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Simplify Pathnames(9.4)*
