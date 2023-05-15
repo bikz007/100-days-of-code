@@ -395,3 +395,7 @@ Also learned about precedence and associativity of operators.
 ## Day 95: May 11, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Simplify Pathnames(9.4)*
+
+## Day 96: May 15, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Search postings list(9.5)*
