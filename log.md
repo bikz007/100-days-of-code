@@ -403,3 +403,7 @@ Also learned about precedence and associativity of operators.
 ## Day 97: May 24, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Compute buildings with a sunset view(9.6)*
+
+## Day 98: May 30, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Compute binary tree nodes in order of increasing depth(9.7)*
