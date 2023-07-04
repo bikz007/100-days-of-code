@@ -407,3 +407,7 @@ Also learned about precedence and associativity of operators.
 ## Day 98: May 30, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Compute binary tree nodes in order of increasing depth(9.7)*
+
+## Day 99: July 04, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Implement circular queue(9.8)*
