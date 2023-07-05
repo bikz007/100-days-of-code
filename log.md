@@ -411,3 +411,7 @@ Also learned about precedence and associativity of operators.
 ## Day 99: July 04, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Implement circular queue(9.8)*
+
+## Day 100: July 05, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Implement queue using stack(9.9)*
