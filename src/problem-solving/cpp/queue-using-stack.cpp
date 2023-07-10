@@ -11,7 +11,6 @@ class MyQueue
                 enq.pop();
             }
          }
-
          int ret_elem = deq.top();
          deq.pop();
          return ret_elem;

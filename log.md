@@ -415,3 +415,7 @@ Also learned about precedence and associativity of operators.
 ## Day 100: July 05, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Implement queue using stack(9.9)*
+
+## Day 101: July 10, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Implement queue with max api(9.10)*
