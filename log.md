@@ -423,3 +423,7 @@ Also learned about precedence and associativity of operators.
 ## Day 102: July 17, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Balanced Binary Tree(10.1)*
+
+## Day 103: July 19, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Binary Tree is Symmetry(10.2)*
