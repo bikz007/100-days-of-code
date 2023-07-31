@@ -435,3 +435,7 @@ Also learned about precedence and associativity of operators.
 ## Day 105: July 26, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Lowest Common Ancestor of Binary Tree with parent pointer access(10.4)*
+
+## Day 106: July 31, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Sum Root to Leaf Numbers(10.5)*
