@@ -439,3 +439,7 @@ Also learned about precedence and associativity of operators.
 ## Day 106: July 31, 2023
 
 **Today's Progress**: Solved new problem from book **EOPI** named *Sum Root to Leaf Numbers(10.5)*
+
+## Day 107: August 09, 2023
+
+**Today's Progress**: Solved new problem from book **EOPI** named *Find a root to leaf path with target sum(10.6)*
